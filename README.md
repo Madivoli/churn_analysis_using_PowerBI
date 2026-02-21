@@ -4,7 +4,7 @@ Analysing churn doesn’t just mean knowing what the churn rate is: it’s also 
 I have been hired as a consultant, and my task is to analyse why customers are churning, or in other words, leaving Airtel. 
 
 #
-Required:
+**Required:**
 1.	To calculate the total churn rate for "Airtel". 
 2.	To investigate the different reasons why customers churned. What are the top 3 churn reasons? INVESTIGATING CHURN REASONS
 3.	To display all churn categories in one clear visualisation. What's the most prevalent churn category? DIGGING DEEPER INTO CHURN CATEGORIES
@@ -19,4 +19,8 @@ Required:
 12.	Which state has the highest churn rate and yet the lowest sum of customer service calls? And what is the total number of customer service calls for that state? MORE INSIGHTS
 
 #
-KPIs
+**KPIs**
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/00918263-238e-4ca3-bcc1-17a2e771e7ea" />
+
+**Insights**
+
