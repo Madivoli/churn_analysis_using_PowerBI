@@ -23,4 +23,8 @@ I have been hired as a consultant, and my task is to analyse why customers are c
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/00918263-238e-4ca3-bcc1-17a2e771e7ea" />
 
 **Insights**
-
+- The total number of customers was 6,687, out of which 1,796 (26.86%) stopped doing business with Airtel.
+- The monthly and yearly churn rate were 46.29% and 6.62%, respectively.
+- Customers made a total of 6,123 calls to customer service. Close to one call per customer was made in the period (0.92 calls), which is high. Frequent calls often correlate with dissatisfaction, billing issues, or service problems.
+- Customers who are not on an international plan spent, on average, $33.64 on extra charges for international calls.
+- Average Monthly Charges to the customer were $31.03. 
