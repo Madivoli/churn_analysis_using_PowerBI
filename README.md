@@ -22,7 +22,7 @@ I have been hired as a consultant, and my task is to analyse why customers are c
 **KPIs**
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/00918263-238e-4ca3-bcc1-17a2e771e7ea" />
 
-**Insights**
+## **Insights**
 - The total number of customers was 6,687, out of which 1,796 (26.86%) stopped doing business with Airtel (churned).
 - Monthly contracts had the highest churn rates compared to yearly contracts, at 46.29% and 6.62%, respectively. Female customers on monthly contracts had the highest monthly churn rate (47.31%) compared to male customers (45.31%). However, male customers on a yearly contract had the highest annual churn rate compared to female customers, 7.21% vs. 6.02%, respectively
 - Customers made a total of 6,123 calls to customer service. Close to one call per customer was made in the period (0.92 calls), which is high. 
@@ -32,5 +32,18 @@ I have been hired as a consultant, and my task is to analyse why customers are c
 - The average monthly charges to the customer were $31.03.
 - Lastly, the extra charges for data downloads for customers who are not on an unlimited plan were $3.37.
 
-**Implications**
-- Nearly one call per customer suggests widespread issues. Frequent calls often correlate with dissatisfaction, billing issues, or service problems. High call volume may strain resources and indicate unresolved problems, potentially fueling churn.
+## **Key Findings & Business Implications**
+
+* **The Contract Gap:** Customers paying month-by-month leave at a much higher rate (46%) than those committed to a year (6%). This suggests that monthly plans do not provide enough value to keep people long-term.
+* **Service Friction:** With customers calling support nearly once a month on average, there is a clear sign of frustration. High call volumes usually mean the product or the billing process is confusing.
+* **Gender & Plan Risk:** Women on monthly plans are the most likely to leave the service. This highlights a specific group of customers whose needs are not being met by the current monthly offers.
+* **Hidden Costs:** Customers without international plans are being hit with over $30 in extra fees. These "surprise" charges are a major reason why people lose trust and switch to competitors.
+* **Data Pricing Issues:** People without unlimited plans are paying extra for data downloads. Even small extra charges can make a customer feel like they are being treated unfairly.
+
+## **Strategic Recommendations**
+
+1. **Promote Yearly Commitment:** Offer a discount or a small reward to monthly users who switch to a yearly contract. This stabilizes revenue and keeps customers loyal for longer.
+2. **Proactive Problem Solving:** Identify customers who call support more than twice in 30 days. Reach out to them personally to fix their issues before they decide to cancel.
+3. **Smart Plan Matching:** Reach out to customers who are paying high extra fees for international calls or data and move them to a plan that covers those costs. Saving them money builds long-term loyalty.
+4. **Fix Service Issues:** Analyze the top reasons for customer calls. If a specific region has a high call volume, fixing the local network or simplifying the bill in that area will stop more people from leaving than any discount would.
+
