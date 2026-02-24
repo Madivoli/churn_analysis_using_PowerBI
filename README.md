@@ -23,8 +23,14 @@ I have been hired as a consultant, and my task is to analyse why customers are c
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/00918263-238e-4ca3-bcc1-17a2e771e7ea" />
 
 **Insights**
-- The total number of customers was 6,687, out of which 1,796 (26.86%) stopped doing business with Airtel.
-- The monthly and yearly churn rate were 46.29% and 6.62%, respectively.
-- Customers made a total of 6,123 calls to customer service. Close to one call per customer was made in the period (0.92 calls), which is high. Frequent calls often correlate with dissatisfaction, billing issues, or service problems.
-- Customers who are not on an international plan spent, on average, $33.64 on extra charges for international calls.
-- Average Monthly Charges to the customer were $31.03. 
+- The total number of customers was 6,687, out of which 1,796 (26.86%) stopped doing business with Airtel (churned).
+- Monthly contracts had the highest churn rates compared to yearly contracts, at 46.29% and 6.62%, respectively. Female customers on monthly contracts had the highest monthly churn rate (47.31%) compared to male customers (45.31%). However, male customers on a yearly contract had the highest annual churn rate compared to female customers, 7.21% vs. 6.02%, respectively
+- Customers made a total of 6,123 calls to customer service. Close to one call per customer was made in the period (0.92 calls), which is high. 
+- Interestingly, male customers made more calls to customer service than females; 3060 calls compared to 3054 calls. However, on average, female customers made more calls than their counterparts (0.93 vs. 0.91 calls, respectively).
+- On the other hand, customers on monthly contracts made more customer service calls (4467) than those on yearly contracts (1656). 
+- Customers who are not on an international plan, on average, spent $33.64 on extra charges for international calls.
+- The average monthly charges to the customer were $31.03.
+- Lastly, the extra charges for data downloads for customers who are not on an unlimited plan were $3.37.
+
+**Implications**
+- Nearly one call per customer suggests widespread issues. Frequent calls often correlate with dissatisfaction, billing issues, or service problems. High call volume may strain resources and indicate unresolved problems, potentially fueling churn.
