@@ -20,7 +20,8 @@ I have been hired as a consultant, and my task is to analyse why customers are c
 
 #
 **KPIs**
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/00918263-238e-4ca3-bcc1-17a2e771e7ea" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f6e5bff2-998a-44ef-8318-8b6fdb80f9b7" />
 
 ## **Insights**
 
@@ -50,3 +51,17 @@ I have been hired as a consultant, and my task is to analyse why customers are c
 
 #
 **INVESTIGATING CHURN REASONS**
+
+<img width="1365" height="738" alt="image" src="https://github.com/user-attachments/assets/45489bd3-6c8a-496f-b89c-ac086a7703f3" />
+
+**Insights**
+The top 5 reasons for customers churning were:
+1. Competitor made better offer - 16.87%
+2. Competitor had better devices -  16.54%
+3. Attitude of support staff - 11.30%
+4. Don't know - 6.85%
+5. Competitor offered more data - 6.12%
+
+- Churn reasons varied among the genders. The majority of female customers (17.61%) churned due to competitors making better offers. On the other hand, 17.28% of males churned due to competitors having better devices.
+- There is variability in the reasons for churning among the various age groups. For instance, the top 3 reasons for churning for customers in the age 55 and above are: Competitor made better offer (18.22%), Competitor having better devices (17.44%), and Attitude of support staff (12.40%). On the other hand, customers in the under-25 age group churned due to: Competitor making better offer (18.94%), Competitor offering more data (7.58%), and Competitor offering higher download speeds (6.82%).
+- lastly, majority of customers on the monthly contract churned due to the following reasons: Competitor making better offers (17.29%), Competitor having better devices (17.29%), and Attitude of support staff (11.79%). Customers on the yearly contract, on the other hand, stopped doing business with Airtel due to the following reasons: Competitor offering more data (7.83%), Competitor offering higher download speeds (7.83%), and product disastisfaction (6.91%).
