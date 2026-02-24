@@ -6,7 +6,7 @@ I have been hired as a consultant, and my task is to analyse why customers are c
 #
 **Required:**
 1.	To calculate the total churn rate for "Airtel". 
-2.	To investigate the different reasons why customers churned. What are the top 3 churn reasons? INVESTIGATING CHURN REASONS
+2.	To investigate the different reasons why customers churned. What are the top 3 churn reasons? 
 3.	To display all churn categories in one clear visualisation. What's the most prevalent churn category? DIGGING DEEPER INTO CHURN CATEGORIES
 4.	Our competitors have launched aggressive promos in certain states, and Airtel is wondering if it has impacted customers. Create a map in Power BI to investigate the churn rate by state. Which state has the highest churn rate? USE MAPS TO YOUR ADVANTAGE
 5.	Analyse the different demographic fields from the dataset. What's the churn rate for senior citizens? ANALYZING DEMOGRAPHICS
@@ -23,16 +23,17 @@ I have been hired as a consultant, and my task is to analyse why customers are c
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/00918263-238e-4ca3-bcc1-17a2e771e7ea" />
 
 ## **Insights**
-- The total number of customers was 6,687, out of which 1,796 (26.86%) stopped doing business with Airtel (churned).
-- Monthly contracts had the highest churn rates compared to yearly contracts, at 46.29% and 6.62%, respectively. Female customers on monthly contracts had the highest monthly churn rate (47.31%) compared to male customers (45.31%). However, male customers on a yearly contract had the highest annual churn rate compared to female customers, 7.21% vs. 6.02%, respectively
-- Customers made a total of 6,123 calls to customer service. Close to one call per customer was made in the period (0.92 calls), which is high. 
-- Interestingly, male customers made more calls to customer service than females; 3060 calls compared to 3054 calls. However, on average, female customers made more calls than their counterparts (0.93 vs. 0.91 calls, respectively).
-- On the other hand, customers on monthly contracts made more customer service calls (4467) than those on yearly contracts (1656). 
-- Customers who are not on an international plan, on average, spent $33.64 on extra charges for international calls.
-- The average monthly charges to the customer were $31.03.
-- Lastly, the extra charges for data downloads for customers who are not on an unlimited plan were $3.37.
 
-## **Key Findings & Business Implications**
+- **Customer Loss:** Out of 6,687 customers, 1,796 stopped using the Airtel service. This means about 27% of customers left.
+- **Contract Impact:** Customers on monthly plans leave much more often (46.29%) than those on yearly contracts (6.62%).
+- **Most Likely to Leave:** Women on monthly plans have the highest dropout rate at over 47%. On the other hand, men on yearly contracts leave slightly more often than women on the same plan (7.21% vs. 6.02%, respectively).
+- **Support Calls:** Customers made over 6,100 calls to customer service. This averages nearly one call per customer (0.92), which is a very high level of service friction. It shows many people are having issues with their service.
+- **Support Trends:** While the total number of calls is similar between men and women, women call slightly more often on average (0.93 vs. 0.91 calls, respectively). Additionally, customers on monthly plans call for help nearly three times as often as those on yearly plans (4,467 vs 1,656, respectively).
+- **Unexpected Fees:** Customers without an international plan spend an average of $33.64 extra on international calls.
+- **Monthly Spending:** The average customer is charged $31.03 per month for their basic services.
+- **Data Charges:** Customers without an unlimited data plan pay an average of $3.37 in extra fees for data downloads.
+
+## **Business Implications**
 
 * **The Contract Gap:** Customers paying month-by-month leave at a much higher rate (46%) than those committed to a year (6%). This suggests that monthly plans do not provide enough value to keep people long-term.
 * **Service Friction:** With customers calling support nearly once a month on average, there is a clear sign of frustration. High call volumes usually mean the product or the billing process is confusing.
@@ -47,3 +48,5 @@ I have been hired as a consultant, and my task is to analyse why customers are c
 3. **Smart Plan Matching:** Reach out to customers who are paying high extra fees for international calls or data and move them to a plan that covers those costs. Saving them money builds long-term loyalty.
 4. **Fix Service Issues:** Analyze the top reasons for customer calls. If a specific region has a high call volume, fixing the local network or simplifying the bill in that area will stop more people from leaving than any discount would.
 
+#
+**INVESTIGATING CHURN REASONS**
