@@ -1,4 +1,4 @@
-# churn_analysis_using_PowerBI
+# Analysing Customer Churn in Power BI
 For subscription-based businesses, reducing customer churn is a top priority. In this Power BI project, I investigated a 6,687-dataset from a fictitious telecom company, Airtel, and analysed their churn rates. 
 Analysing churn doesn’t just mean knowing what the churn rate is: it’s also about figuring out why customers are churning/leaving at the rate they are, and how to reduce churn. 
 I have been hired as a consultant, and my task is to analyse why customers are churning, or in other words, leaving Airtel. 
