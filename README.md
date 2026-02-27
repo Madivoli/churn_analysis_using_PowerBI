@@ -1,11 +1,11 @@
-# Analysing Customer Churn in Power BI
-For subscription-based businesses, reducing customer churn is a top priority. In this Power BI project, I investigated a 6,687-dataset from a fictitious telecom company, Airtel, and analysed their churn rates. Analysing churn doesn’t just mean knowing what the churn rate is: it’s also about figuring out why customers are churning/leaving at the rate they are, and how to reduce churn. I have been hired as a consultant, and my task is to analyse why customers are churning, or in other words, leaving Airtel. 
+# ANALYSING CUSTOMER CHURN IN POWER BI
+For subscription-based businesses, reducing customer churn is a top priority. In this Power BI project, I investigated a 6,687-dataset from a fictitious telecom company, Airtel, and analysed their churn rates. Analysing churn doesn’t just mean knowing the churn rate: it’s also about understanding why customers are churning/leaving at that rate and how to reduce churn. I have been hired as a consultant, and my task is to analyse why customers are churning, i.e., leaving Airtel. 
 
 #
 **Required:**
 1.	To calculate the total churn rate for "Airtel". 
 2.	To investigate the different reasons why customers churned. What are the top 3 churn reasons? 
-3.	To display all churn categories in one clear visualisation. What's the most prevalent churn category? DIGGING DEEPER INTO CHURN CATEGORIES
+3.	To display all churn categories in one clear visualisation. What's the most prevalent churn category? 
 4.	Our competitors have launched aggressive promos in certain states, and Airtel is wondering if it has impacted customers. Create a map in Power BI to investigate the churn rate by         state. Which state has the highest churn rate? USE MAPS TO YOUR ADVANTAGE
 5.	Analyse the different demographic fields from the dataset. What's the churn rate for senior citizens? ANALYZING DEMOGRAPHICS
 6.	Analyse if customers that are part of a group indeed have a lower phone bill, and if it has an impact on the churn rate. Which group size has the lowest churn rate? INSPECTING GROUPS
@@ -68,13 +68,16 @@ The investigation into why 1,796 customers left Airtel reveals that competition 
 
 
 ## **Business Implications**
+1. **Vulnerable to Competitors:** Customers are leaving because competitors offer better deals, devices, or data plans. Since this accounts for 39% of the churn, the current offerings are not strong enough to compete in the market.
+2. **Customer Service is a Problem, Not a Solution:** Poor support staff attitudes are a top three reason for customers leaving. When you add this to the fact that customers call for support nearly once every month, it is clear that the service is actually driving customers away instead of helping them stay.
+3. **Falling Behind Power Users:** Yearly contract holders and younger customers are leaving because they are unhappy with data speeds and limits. This shows that the current plans and technology cannot keep up with the needs of the most active users.
+4. **Service Impacts Seniors More:** Seniors generally prefer stability, but they are very sensitive to negative service interactions. Poor service is causing the company to lose this group faster than others.
 
-1. **Vulnerability to Market Aggression:** With over 39% of churn tied directly to competitor offers, devices, or data, Airtel’s current value proposition is struggling to withstand           external market pressure.
-2. **The "Support Friction" Cost:** The fact that the "Attitude of support staff" is the third leading cause of churn—combined with an average of nearly one support call per customer—         indicates that customer service is currently a liability rather than a retention tool.
-3. **Technical Stagnation for Power Users:** The churn reasons for yearly contract holders and younger demographics (data speed and volume) suggest that Airtel’s infrastructure or plan        limits are failing to keep pace with "power users."
-4. **Demographic Sensitivity:** Since seniors are more sensitive to staff attitudes, poor service interactions are disproportionately impacting a demographic that typically values             stability.
+## **Strategic Recommendations**
+1. **Create "Win-Back" Offers:** Since competitor offers are the main reason customers leave, the company should offer immediate incentives to stay. If a customer — especially a young person or a woman — calls to discuss their plan, give support staff the power to offer them better data or a device upgrade on the spot.
+2. **Improve Staff Training:** Because poor staff attitude causes so many customers to leave, mandatory training is required that focuses on empathy and solving problems. This is especially important for staff who deal with monthly contract customers.
+3. **Upgrade Data and Infrastructure:** To keep younger users and those on yearly contracts, the company must improve download speeds and increase data limits. Moving these customers to "Unlimited" plans can help prevent them from leaving due to data dissatisfaction.
+4. **Launch a Device Upgrade Program:** Many customers leave because competitors have better devices. Introduce an upgrade program for customers at their 12-month contract mark. This will give them a reason to stay with the company rather than switching to a competitor for new hardware.
 
-
-
-
-
+#
+**DIGGING DEEPER INTO CHURN CATEGORIES**
