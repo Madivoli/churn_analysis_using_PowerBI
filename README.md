@@ -22,7 +22,7 @@ For subscription-based businesses, reducing customer churn is a top priority. In
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f6e5bff2-998a-44ef-8318-8b6fdb80f9b7" />
 
-## **Insights**
+## Insights
 
 - **Customer Loss:** Out of 6,687 customers, 1,796 stopped using the Airtel service. This means about 27% of customers left.
 - **Contract Impact:** Customers on monthly plans leave much more often (46.29%) than those on yearly contracts (6.62%).
@@ -33,7 +33,7 @@ For subscription-based businesses, reducing customer churn is a top priority. In
 - **Monthly Spending:** The average customer is charged $31.03 per month for their basic services.
 - **Data Charges:** Customers without an unlimited data plan pay an average of $3.37 in extra fees for data downloads.
 
-## **Business Implications**
+## Business Implications
 
 * **The Contract Gap:** Customers paying month-by-month leave at a much higher rate (46%) than those committed to a year (6%). This suggests that monthly plans do not provide enough          value to keep people long-term.
 * **Service Friction:** With customers calling support nearly once a month on average, there is a clear sign of frustration. High call volumes usually mean the product or the billing         process is confusing.
@@ -41,7 +41,7 @@ For subscription-based businesses, reducing customer churn is a top priority. In
 * **Hidden Costs:** Customers without international plans are being hit with over $30 in extra fees. These "surprise" charges are a major reason why people lose trust and switch to           competitors.
 * **Data Pricing Issues:** People without unlimited plans are paying extra for data downloads. Even small extra charges can make a customer feel like they are being treated unfairly.
 
-## **Strategic Recommendations**
+## Strategic Recommendations
 
 1. **Promote Yearly Commitment:** Offer a discount or a small reward to monthly users who switch to a yearly contract. This stabilizes revenue and keeps customers loyal for longer.
 2. **Proactive Problem Solving:** Identify customers who call support more than twice in 30 days. Reach out to them personally to fix their issues before they decide to cancel.
@@ -56,7 +56,7 @@ The investigation into why 1,796 customers left Airtel reveals that competition 
 <img width="1365" height="738" alt="image" src="https://github.com/user-attachments/assets/45489bd3-6c8a-496f-b89c-ac086a7703f3" />
 
 
-## **Insights on why customers are leaving:**
+## Insights on why customers are leaving:
 
 1.	**Primary Churn Drivers:** The top five reasons for customer churn are competitors making better offers (16.87%), competitors providing superior devices (16.54%), the negative              attitude of support staff (11.30%), unknown reasons (6.85%), and competitors offering more data (6.12%).
 2.	**Gender-Based Variance:** Churn motivations differ by gender; the majority of female customers (17.61%) left because of better competitor offers, while 17.28% of male customers left       due to superior competitor devices.
@@ -68,7 +68,7 @@ The investigation into why 1,796 customers left Airtel reveals that competition 
     - *Yearly Contracts:* Interestingly, long-term customers churned due to technical limitations, specifically better data offers (7.83%), higher download speeds (7.83%), and general           product dissatisfaction (6.91%).
 
 
-## **Business Implications**
+## Business Implications
 1. **Vulnerable to Competitors:** Customers are leaving because competitors offer better deals, devices, or data plans. Since this accounts for 39% of the churn, the current offerings are not strong enough to compete in the market.
 2. **Customer Service is a Problem, Not a Solution:** Poor support staff attitudes are a top three reason for customers leaving. When you add this to the fact that customers call for support nearly once every month, it is clear that the service is actually driving customers away instead of helping them stay.
 3. **Falling Behind Power Users:** Yearly contract holders and younger customers are leaving because they are unhappy with data speeds and limits. This shows that the current plans and technology cannot keep up with the needs of the most active users.
@@ -83,16 +83,32 @@ The investigation into why 1,796 customers left Airtel reveals that competition 
 
 
 #
-**REVENUE LEAKAGE**
+**REVENUE LEAKAGE ANALYSIS**
 
-The objective is to find the "disconnect" between a customer’s consumption (Data and Minutes) and their financial contribution (Total Charges). 
+The objective is to find the "disconnect" between a customer’s consumption (Data and Minutes) and their financial contribution (Total Charges). Even though the "High Leakage Risk" group (the red dots) looks small in number compared to the total 6,687 customers, their financial density is what matters.
 
-Even though the "High Leakage Risk" group (the purple dots) looks small in number compared to the total 6,687 customers, their financial density is what matters.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/414aa9bb-77fb-4968-9fe9-0b5a993d1c15" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9380d56d-76fb-4ba1-affb-523fc9cfbcb0" />
+## Insights
 
-1.	Which demographics have high ARPU but low international charges (potential for upsell)?
-2.	
+The analysis identifies a specific group of **314 "High Leakage" customers** who consume massive amounts of network resources but contribute very little to the bottom line.
+
+- **The Problem:** The analysis found customers like 5560-OWBK paying just $0.004 per minute, while others like 6069-HDMO pay nearly 8 times more ($0.03 per minute) for far less usage.
+- **The Impact:** This "silent subsidy" costs Airtel $6,880.62 every month ($82,560 annually) in lost revenue.
+- **The Demographic:** The leakage is most prevalent among Males (51%) and specifically concentrated in Two-Year Contracts (76% of the leakage group).
+
+## Business Implications
+- **Profit Margin Erosion:** While these 314 customers are likely very satisfied (because their service is essentially "underpriced"), they are lower-margin or even "loss-making" users. The network is working hard for them, but the business isn't being compensated for it.
+- **Unfair Pricing Structure:** High-paying customers (paying $0.03/min, for instance) are effectively subsidizing the "Power Users." If the high-paying customers realize this, it could trigger "pricing disputes" and drive them toward competitors.
+- **Hidden Contract Risk:** Since $5,433 of the leakage is locked in Two-Year Contracts, the company is legally obligated to continue providing this underpriced service for a long duration. This makes it harder to fix the revenue gap quickly.
+
+## Strategic Recommendations
+1. **Targeted Plan Migration:** Airtel should not raise prices for everyone. Instead, it should create a "Pro" or "Unlimited" tier specifically for these 314 users. The company should offer them more data or better speeds in exchange for a higher monthly fee that matches their high minute usage.
+
+2. **Audit the Two-Year "Legacy" Plans:** Since most leakage is in two-year contracts, Airtel needs to investigate if these were "promotional" rates that didn't include usage caps. Moving forward, new two-year contracts should include "fair usage" policies to prevent such low per-minute rates.
+
+3. **The "Service vs. Value" Check:** The company should use the lack of disputes in this group as a benchmark. If these users are happy because it's cheap, the company must carefully manage the transition to higher prices to ensure they don't churn once the "subsidy" ends.
+
 
 
 
