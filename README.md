@@ -91,16 +91,16 @@ The objective is to find the "disconnect" between a customer’s consumption (Da
 
 ## Insights
 
-The analysis identifies a specific group of **314 "High Leakage" customers** who consume massive amounts of network resources but contribute very little to the bottom line.
+The analysis identifies a specific group of **314 "high leakage" customers** who consume massive amounts of network resources but contribute very little to the bottom line.
 
 - **The Problem:** The analysis found customers like 5560-OWBK paying just $0.004 per minute, while others like 6069-HDMO pay nearly 8 times more ($0.03 per minute) for far less usage.
 - **The Impact:** This "silent subsidy" costs Airtel $6,880.62 every month ($82,560 annually) in lost revenue.
-- **The Demographic:** The leakage is most prevalent among Males (51%) and specifically concentrated in Two-Year Contracts (76% of the leakage group).
+- **The Demographic:** The leakage is most prevalent among males (51%) and specifically concentrated in two-year contracts (76% of the leakage group).
 
 ## Business Implications
 - **Profit Margin Erosion:** While these 314 customers are likely very satisfied (because their service is essentially "underpriced"), they are lower-margin or even "loss-making" users. The network is working hard for them, but the business isn't being compensated for it.
-- **Unfair Pricing Structure:** High-paying customers (paying $0.03/min, for instance) are effectively subsidizing the "Power Users." If the high-paying customers realize this, it could trigger "pricing disputes" and drive them toward competitors.
-- **Hidden Contract Risk:** Since $5,433 of the leakage is locked in Two-Year Contracts, the company is legally obligated to continue providing this underpriced service for a long duration. This makes it harder to fix the revenue gap quickly.
+- **Unfair Pricing Structure:** High-paying customers (paying $0.03/min, for instance) are effectively subsidizing the "power users." If the high-paying customers realize this, it could trigger "pricing disputes" and drive them toward competitors.
+- **Hidden Contract Risk:** Since $5,433 of the leakage is locked in two-year contracts, the company is legally obligated to continue providing this underpriced service for a long duration. This makes it harder to fix the revenue gap quickly.
 
 ## Strategic Recommendations
 1. **Targeted Plan Migration:** Airtel should not raise prices for everyone. Instead, it should create a "Pro" or "Unlimited" tier specifically for these 314 users. The company should offer them more data or better speeds in exchange for a higher monthly fee that matches their high minute usage.
